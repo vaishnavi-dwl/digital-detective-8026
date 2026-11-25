@@ -29,7 +29,10 @@ cat > notes.md << 'EOF'
 
 ## Task 5.3: Number converter
 
-(To fill in after testing: test table and function explanation.)
+| Test no | Binary output | Hexadecimal output |
+10 | 0b1010 | 0xa
+255 | 0b11111111 | 0xff
+42 | 0b101010 | 0x2a
 
 ## Task 5.4: How is text stored?
 
