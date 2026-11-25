@@ -1,3 +1,6 @@
+cat > notes.md << 'EOF'
+# Mission 6 Notes
+
 ## Task 6.1: Basic Git workflow
 
 | Git operation | What it does in my own words |
@@ -11,7 +14,7 @@
 - Staging (`git add`) means choosing which changes should go into the next saved version.
 - Committing (`git commit`) means saving those staged changes as a recorded version in Git. A commit is stored in the local repository and is not automatically uploaded to GitHub.
 
-## Task 6.2: Branch and README update
+## Task 6.4: Git command glossary
 
 | Git command / operation | One-line explanation |
 |---|---|
