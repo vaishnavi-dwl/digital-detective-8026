@@ -24,11 +24,7 @@
 | Test | Observation |
 |---|---|
 | Connectivity test | `ping -c 4 example.com`: 4 packets transmitted, 4 packets received, 0.0% packet loss. Round-trip min/avg/max/stddev = 9.691/11.675/14.174/1.659 ms |
-| DNS lookup | Server:		8.8.8.8
-Address:	8.8.8.8#53
-Non-authoritative answer:
-Name:	youtube.com
-Address: 142.251.221.174 |
+| DNS lookup | Server:8.8.8.8   Address:	8.8.8.8#53  Non-authoritative answer:   Name:	youtube.com    Address: 142.251.221.174 |
 | What I learned | The connectivity test checks communication, while DNS lookup finds the IP address associated with a domain name. |
 
 ## Task 7.3: What happens when I open a website
